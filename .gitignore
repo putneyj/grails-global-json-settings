@@ -1,0 +1,6 @@
+*.log
+target
+grails-*.zip
+plugin.xml
+web-app
+.settings
