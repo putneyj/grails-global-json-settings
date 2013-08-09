@@ -3,7 +3,7 @@ import org.codehaus.groovy.grails.commons.GrailsApplication
 import com.putneyj.CustomObjectMarshaller
 
 class GlobalJsonSettingsGrailsPlugin {
-    def version = "0.1"
+    def version = "0.1.1"
     def grailsVersion = "2.3 > *"
     def title = "Global JSON Settings"
     def description = '''\
