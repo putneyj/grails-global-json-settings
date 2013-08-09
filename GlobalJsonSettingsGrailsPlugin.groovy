@@ -5,7 +5,7 @@ import com.putneyj.CustomObjectMarshaller
 class GlobalJsonSettingsGrailsPlugin {
     def version = "0.1"
     def grailsVersion = "2.3 > *"
-    def title = "Global JSON Exclusions"
+    def title = "Global JSON Settings"
     def description = '''\
 Allows you to setup global JSON setting in your Config.groovy file.\
 You can exclude properties by name, prevent null properties from rendering, and ignore the version property.
